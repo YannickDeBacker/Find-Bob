@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>616047031079-qsp65emfjc20kh2628pugmirmocq3s19.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.616047031079-qsp65emfjc20kh2628pugmirmocq3s19</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDRaxGgz50yumRCNCcUeDJj5PnY-67AP08</string>
+	<key>GCM_SENDER_ID</key>
+	<string>616047031079</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>debackerprojects.Find-Bob-0.0</string>
+	<key>PROJECT_ID</key>
+	<string>find-bob-3b3a1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>find-bob-3b3a1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:616047031079:ios:a8dde070cd5f5b6ca9af02</string>
+	<key>DATABASE_URL</key>
+	<string>https://find-bob-3b3a1.firebaseio.com</string>
+</dict>
+</plist>
